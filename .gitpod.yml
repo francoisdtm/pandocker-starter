@@ -1,0 +1,9 @@
+tasks:
+  - name: Build document.md
+    command: make
+
+vscode:
+  extensions:
+    - github.copilot
+    - mathematic.vscode-pdf
+    - emeraldwalk.RunOnSave

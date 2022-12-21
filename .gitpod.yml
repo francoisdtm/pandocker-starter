@@ -7,3 +7,4 @@ vscode:
     - github.copilot
     - mathematic.vscode-pdf
     - emeraldwalk.RunOnSave
+    - esbenp.prettier-vscode
